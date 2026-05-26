@@ -161,6 +161,13 @@
               "hasOpenThreats": false,
               "providesAuthentication": false,
               "threats": []
+            },
+            "tools": {
+              "items": [
+                "boundary",
+                "button-remove"
+              ],
+              "name": null
             }
           },
           {
@@ -414,7 +421,7 @@
             },
             "attrs": {
               "text": {
-                "text": "Serwer"
+                "text": "Baza danych"
               },
               "body": {
                 "stroke": "#333333",
@@ -510,7 +517,7 @@
             "zIndex": 4,
             "data": {
               "type": "tm.Actor",
-              "name": "Serwer",
+              "name": "Baza danych",
               "description": "",
               "isTrustBoundary": false,
               "outOfScope": false,
